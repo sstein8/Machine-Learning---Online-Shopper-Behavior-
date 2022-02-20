@@ -1,2 +1,3 @@
 # Machine-Learning---Online-Shopper-Behavior-
-Analysis of online shopping data to determine the correlation between browsing habits and likelihood of making a purchase.
+
+Using Python with the pandas library, I performed an analysis of online shopping history data to determine correlation between browsing habits and whether or not a purchase was made.  This analysis included feature engineering, handling of missing data, random forrest modeling, grid search, and linear regression modeling.
